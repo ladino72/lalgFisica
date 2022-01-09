@@ -1,0 +1,53 @@
+.. _practica2:
+
+Práctica 2
+===========
+Objetivo
+---------------
+Materiales
+---------------
+Resumen teorico
+---------------
+Descripción del experimento
+----------------------------
+
+Since Pythagoras, we know that :math:`a^2 + b^2 = c^2`.
+
+.. math::
+   :label: pfx100
+
+
+   (a + b)^2  &=  (a + b)(a + b) \\
+              &=  a^2 + 2ab + b^2
+
+.. math::
+   :nowrap:
+   :label: pfx101
+
+   \begin{eqnarray}
+      y    & = & ax^2 + bx + c \\
+      f(x) & = & x^2 + 2xy + y^2
+   \end{eqnarray}
+
+
+.. math:: e^{i\pi} + 1 = 0
+   :label: euler100
+
+Euler's identity, equation :eq:`euler100`, was elected one of the most
+beautiful mathematical formulas.
+
+Text before.
+
+.. math::
+   :label: eq10
+
+   \smash{\begin{cases}
+   a_{11}x_{1} + \dots + a_{1m}x_{m} &= b_1\\
+   a_{21}x_{1} + \dots + a_{2m}x_{m} &= b_2
+   \end{cases}}
+
+Text after.
+
+ir a :ref:`Ir <acerca>`
+Numerating latex equations in Sphinx seems to be  a pain in the ass: `Solve to problem <https://stackoverflow.com/questions/50791046/how-to-allocate-the-label-center-of-case-using-sphinx>`_.
+

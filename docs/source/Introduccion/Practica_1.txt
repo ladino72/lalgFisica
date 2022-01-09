@@ -1,0 +1,145 @@
+.. _practica1:
+
+Práctica 1
+===========
+Objetivo
+---------------
+“Para este Ministerio, resulta constitucional y legalmente imposible aceptar las peticiones del accionante en el sentido de realizar acciones tendientes a impedir la reproducción o publicación de la pieza musical o su versión en video, al considerar que al acceder a su pedido, estaríamos incurriendo en una clarísima censura, que insisto una vez más, está totalmente proscrita del Estado Colombiano”, indicó.
+
+Materiales
+---------------
+* Item 1.
+* Item 2.
+* Item 3.
+
+Resumen teorico
+---------------
+Descripción del experimento
+----------------------------
+
+
+
+Since Pythagoras, we know that :math:`a^2 + b^2 = c^2`.
+
+.. math::
+   :label: eq1
+
+
+   (a + b)^2  &=  (a + b)(a + b) \\
+              &=  a^2 + 2ab + b^2
+
+.. math::
+   :nowrap:
+   :label: eq2
+
+   \begin{eqnarray}
+      y    & = & ax^2 + bx + c \\
+      f(x) & = & x^2 + 2xy + y^2
+   \end{eqnarray}
+
+
+.. math:: e^{i\pi} + 1 = 0
+   :label: eq3
+
+Euler's identity, equation :eq:`eq3`, was elected one of the most
+beautiful mathematical formulas.
+
+Text before.
+
+.. math::
+   :label: eq4
+
+   \smash{\begin{cases}
+   a_{11}x_{1} + \dots + a_{1m}x_{m} &= b_1\\
+   a_{21}x_{1} + \dots + a_{2m}x_{m} &= b_2
+   \end{cases}}
+
+Text after.
+
+
+
+Ir a :ref:`Ir <acerca>`
+Numerating latex equations in Sphinx seems to be  a pain in the ass: `Solve to problem <https://stackoverflow.com/questions/50791046/how-to-allocate-the-label-center-of-case-using-sphinx>`_.
+
+Use Tables: `Importante <https://sublime-and-sphinx-guide.readthedocs.io/en/latest/create_project.html>`_.
+Sphinx documents: `Clave <https://www.sphinx-doc.org/en/1.4.8/markup/toctree.html>`_.
+
+.. table:: Tabla 1
+
+   +------------+------------+-----------+
+   |:math:`a^2` |:math:`a^2` |:math:`a^3`|
+   +------------+------------+-----------+
+   |    1       |     3      |       4   |
+   +------------+------------+-----------+
+   |    2       |     3      |      8    |
+   +------------+------------+-----------+
+
+
+.. table:: Tabla 2
+
+   +----------+---------+
+   |Name      |Age      |
+   +==========+=========+
+   |Bill      |39       |
+   +----------+---------+
+   |Jane      |38       |
+   +----------+---------+
+
+
+.. raw:: html
+
+   <table style="border-collapse:collapse;border-color:#C44D58;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FE4365;border-color:inherit;border-style:solid;border-width:0px;color:#fdf6e3;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:#FD6864">dsdf</span></th><th style="background-color:#FE4365;border-color:inherit;border-style:solid;border-width:0px;color:#fdf6e3;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="background-color:#FE4365;border-color:inherit;border-style:solid;border-width:0px;color:#fdf6e3;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"></th><th style="background-color:#FE4365;border-color:inherit;border-style:solid;border-width:0px;color:#fdf6e3;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th></tr></thead><tbody><tr><td style="background-color:#F9CDAD;border-color:inherit;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="background-color:#F9CDAD;border-color:inherit;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="background-color:#F9CDAD;border-color:#f56b00;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#FE0000">sdfsdf</span></td><td style="background-color:#F9CDAD;border-color:inherit;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2" rowspan="2">Maestrs avgfsfd casfadsgf<br>adasdad<br>asdadadsads<br>asdadsa<br><br></td></tr><tr><td style="background-color:#F9CDAD;border-color:inherit;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="background-color:#F9CDAD;border-color:inherit;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="background-color:#F9CDAD;border-color:inherit;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">It is amazing</td></tr><tr><td style="background-color:#F9CDAD;border-color:inherit;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="background-color:#F9CDAD;border-color:inherit;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="background-color:#F9CDAD;border-color:inherit;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">sdfsdf</td><td style="background-color:#F9CDAD;border-color:inherit;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="background-color:#F9CDAD;border-color:inherit;border-style:solid;border-width:0px;color:#002b36;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+
+
+Sphinx documents: `Generador de tablas en diferentes formatos <https://www.tablesgenerator.com/html_tables>`_.
+
+
+Tabla: `Tomado de <https://docutils.sourceforge.io/docs/ref/rst/directives.html#table>`_.
+
+
+.. csv-table:: Frozen Delights!
+   :header: "Treat", "Quantity", "Description"
+   :widths: auto
+   :name: tabla_1
+   :align: center
+
+   "Albatross", 2.99, "On a stick!"
+   "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
+   crunchy, now would it?"
+   "Gannet Ripple", 1.99, "On a stick!"
+
+La tabla :numref:`tabla_1` muestra los datos
+
+
+This is a typical paragraph.  An indented literal block follows.
+
+::
+
+    for a in [5,4,3,2,1]:   # this is program code, shown as-is
+        print a
+    print "it's..."
+    # a literal block continues until the indentation ends
+
+This text has returned to the indentation of the first paragraph,
+is outside of the literal block, and is therefore treated as an
+ordinary paragraph.
+
+[#]_ is a reference to footnote 1, and [#]_ is a reference to
+footnote 2.
+
+.. [#] This is footnote 1.
+.. [#] This is footnote 2.
+.. [#] This is footnote 3.
+
+[#]_ is a reference to footnote 3.
+
+
+This is a normal reST :index:`kinematics` that contains several
+:index:`index entries <pair: velocity; acceleration>`.
+
+Tomado de
+https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#role-index
+
+Para escarga de archivos
+
+:download:`A Detailed Example <Downloadables/latexpanel.pdf>`.

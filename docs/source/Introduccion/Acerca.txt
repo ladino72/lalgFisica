@@ -1,0 +1,131 @@
+.. _acerca:
+
+Acerca de
+===========
+
+.. _ciencia:
+.. figure:: /images/science.png
+   :alt: pensar
+   :scale: 50%
+   :align: center
+   :name: figurita
+
+   Este es el caption de la figura
+
+La gráfica :numref:`figurita` muestra la distribución.
+
+glob: will just pull files in alphabetically by filename
+If you want to use :glob: and maintain ordering with all your files in source, you'll need to prefix your .rst files with numbers.
+Para usar :glob: `Tomado de <https://stackoverflow.com/questions/9527711/using-sphinx-to-generate-python-document-using-glob>`_.
+
+
+Posibilidad para crear tablas con alignment
+`Prestado de <https://cloud-sptheme.readthedocs.io/en/latest/lib/cloud_sptheme.ext.table_styling.html>`_.
+
+Part
+#######
+
+Chapter
+**********
+
+Section
+========
+
+OJO
+If you want to make a fresh rebuild of the html file just run the command
+*make clean*
+
+
+and then run
+
+make html
+
+
+.. seealso:: modules :py:mod:`zipfile`, :py:mod:`tarfile`
+
+.. seealso::
+
+   Module :py:mod:`zipfile`
+      Documentation of the :py:mod:`zipfile` standard module.
+
+   `GNU tar manual, Basic Tar Format <http://link>`_
+      Documentation for tar archive files, including GNU tar extensions.
+
+.. hlist::
+   :columns: 3
+
+   * A list of
+   * short items
+   * that should be
+   * displayed
+   * horizontally
+
+
+.. glossary::
+
+   environment
+      A structure where information about all documents under the root is
+      saved, and used for cross-referencing.  The environment is pickled
+      after the parsing stage, so that successive runs only need to read
+      and parse new and changed documents.
+
+   source directory
+      The directory which, including its subdirectories, contains all
+      source files for one Sphinx project.
+
+.. glossary::
+
+   term 1 : A
+   term 2 : B
+      Definition of both terms.
+
+
+.. index::
+   single: execution; context
+   module: __main__
+   module: sys
+   triple: module; search; path
+
+
+.. |Product| replace:: Luis Ladino
+
+|Product| is a really nice guy!
+
+.. note::
+
+   The alias may be a single string or a list of them.
+
+
+A WSGI application can be obtained from your application as follows:
+
+.. code-block:: python
+
+    import cherrypy
+    wsgiapp = cherrypy.Application(StringGenerator(), '/', config=myconf)
+
+Simply use the `wsgiapp` instance in any WSGI-aware server.
+
+
+.. note::
+
+   This section is not meant as a complete guide to securing
+   a web application or ecosystem. Please review the various
+   guides provided at `OWASP <https://www.owasp.org/index.php/Main_Page>`_.
+
+
+.. note::
+
+   Although they are written using the typical pattern the
+   :mod:`unittest` module supports, they are not bare unit tests.
+   Indeed, a whole CherryPy stack is started for you and runs your application.
+   If you want to really unit test your CherryPy application, meaning without
+   having to start a server, you may want to have a look at
+   this `recipe <https://bitbucket.org/Lawouach/cherrypy-recipes/src/tip/testing/unit/serverless/>`_.
+
+
+Taken from https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html#id18
+
+:Author: Luis Ladino
+
+:Version: 1.0 of 2020/06/06
+:Dedication: To my father.

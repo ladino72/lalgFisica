@@ -1,0 +1,80 @@
+.. _practica3:
+
+Práctica 3
+===========
+Objetivo
+---------------
+Materiales
+---------------
+Resumen teorico
+---------------
+Descripción del experimento
+----------------------------
+
+
+Since Pythagoras, we know that :math:`a^2 + b^2 = c^2`.
+
+.. math::
+   :label: pfx3
+
+   (a + b)^2  &=  (a + b)(a + b) \\
+              &=  a^2 + 2ab + b^2
+
+.. math::
+   :nowrap:
+   :label: pfx31
+
+   \begin{eqnarray}
+      y    & = & ax^2 + bx + c \\
+      f(x) & = & x^2 + 2xy + y^2
+   \end{eqnarray}
+
+
+.. math:: e^{i\pi} + 1 = 0
+   :label: euler4
+
+Euler's identity, equation :eq:`euler4`, was elected one of the most
+beautiful mathematical formulas.
+
+Text before.
+
+.. math::
+   :label: eq8
+
+   \smash{\begin{cases}
+   a_{11}x_{1} + \dots + a_{1m}x_{m} &= b_1\\
+   a_{21}x_{1} + \dots + a_{2m}x_{m} &= b_2
+   \end{cases}}
+
+Text after.
+
+ir a :ref:`Ir <acerca>`
+Numerating latex equations in Sphinx seems to be  a pain in the ass: `Solve to problem <https://stackoverflow.com/questions/50791046/how-to-allocate-the-label-center-of-case-using-sphinx>`_.
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/DSIuLnoKLd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+.. warning:: Recuerde!
+   No memorize las ecuaciones, de nada le servirán si no piensa: :math:`a^2 + b^2 = c^2`.
+
+.. seealso::
+   `Admonitions <http://docutils.sourceforge.net/0.7/docs/ref/rst/directives.html#admonitions>`__
+
+.. list-table:: Datos experimentales
+   :widths: 25 25 50
+   :header-rows: 1
+   :name: tabla_3
+
+   * - masa
+     - :math:`a^2 + b^2 = c^2`
+     - aceleración
+   * - Row 1, column 1
+     -
+     - Row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
+
+La tabla :numref:`tabla_3` muestra los datos
