@@ -1,4 +1,4 @@
-+Procesos de redistribución de carga eléctrica en condensadores
+Procesos de redistribución de carga eléctrica en condensadores
 ===============================================================
 
 **Objetivo**

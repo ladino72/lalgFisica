@@ -1,5 +1,5 @@
-Campo magnético creado por un conductor recto y muy largo
-==========================================================
+Campo magnético creado por un conductor recto
+===============================================
 
 **Objetivo**
 
