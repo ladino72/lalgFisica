@@ -1,9 +1,16 @@
-Fuerza entre placas de un condensador de placas paralelas
++Fuerza entre placas de un condensador de placas paralelas
 ===========================================================
 
 **Objetivo**
 
 El propósito de esta práctica es determinar la capacitancia :math:`C` de un condensador de placas paralelas a partir de la medición de la fuerza de atraccción entre las placas  cuando la diferencia de potencial entre éstas cambia.
+
+**Recursos**
+
+   #. Placas matáticas
+   #. Balanza digital
+   #. Fuente de alta tensión
+   #. Cables de conexión
 
 **Resumen teorico**
 

@@ -4,6 +4,7 @@
 Determinar el conjunto de líneas equipotenciales para distintas configuraciones de electrodos conectados a una fuente de voltaje e inmersos en un líquido poco conductor. Comparar los resultados experimentales con los resultados provenientes de la solución de Laplace utilizando el método de relajación implementado en la hoja de cálculo Excel.
 
 **Recursos**
+
    #. Cubeta rectangular  de vidrio de propundidad aproximadamente 4 cm
    #. Agua destilada.
    #. Dos fuentes de voltaje DC.

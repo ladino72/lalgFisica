@@ -1,4 +1,4 @@
-+Campo magnético creado por una espira circular con corriente directa y alterna
+Campo magnético creado por una espira circular con corriente directa y alterna
 ===============================================================================
 
 **Objetivo**

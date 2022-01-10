@@ -1,4 +1,4 @@
-+Tubos resonantes
+Tubos resonantes
 ==================
 
 **Objetivo**

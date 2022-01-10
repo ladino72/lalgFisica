@@ -1,4 +1,4 @@
-+Ley de Snell
+Ley de Snell
 =============
 
 **Objetivo**

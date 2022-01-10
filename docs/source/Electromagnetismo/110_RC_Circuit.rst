@@ -1,4 +1,4 @@
-+Circuito RC
+Circuito RC
 ============
 
 **Objetivo**

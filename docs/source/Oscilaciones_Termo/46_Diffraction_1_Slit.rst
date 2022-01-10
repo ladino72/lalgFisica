@@ -1,4 +1,4 @@
-+Difracción de la luz
+Difracción de la luz
 =====================
 
 **Objetivo**

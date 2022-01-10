@@ -5,8 +5,8 @@
 
 El propósito de esta práctica es doble:
 
-   #. determinar experimentalmente el valor del momento de inercia :math:`I` de un disco homogéneo con respecto a un eje perpendicular a su superficie y que pasa por su centro.
-   #. hallar el valor del torque :math:`\tau` ejercido por la fuerza de rozamiento  sobre el eje. Para ello, se enrolla un hilo muy delgado sobre el disco, de cuyo otro extremo pende un cuerpo; al descender éste último el disco gira y se mide su aceleración tangencial en función del peso del cuerpo que pende. A partir de estas mediciones y junto con el modelo dinámico propuesto se determinan los valores de :math:`I` y :math:`\tau`.
+   #. Determinar experimentalmente el valor del momento de inercia :math:`I` de un disco homogéneo con respecto a un eje perpendicular a su superficie y que pasa por su centro.
+   #. Hallar el valor del torque :math:`\tau` ejercido por la fuerza de rozamiento  sobre el eje. Para ello, se enrolla un hilo muy delgado sobre el disco, de cuyo otro extremo pende un cuerpo; al descender éste último el disco gira y se mide su aceleración tangencial en función del peso del cuerpo que pende. A partir de estas mediciones y junto con el modelo dinámico propuesto se determinan los valores de :math:`I` y :math:`\tau`.
 
 **Recursos**
 

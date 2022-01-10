@@ -1,5 +1,6 @@
 Trabajo y energía cinética
-=====================================
+===========================
+
 **Objetivo**
 
 El propósito de esta práctica es estudiar el efecto de una fuerza aplicada a un cuerpo sobre su energía cinética.

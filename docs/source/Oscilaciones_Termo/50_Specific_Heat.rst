@@ -1,4 +1,4 @@
-+Calor específico de un líquido
+Calor específico de un líquido
 ===============================
 
 **Objetivo**

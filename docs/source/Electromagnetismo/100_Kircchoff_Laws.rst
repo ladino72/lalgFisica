@@ -1,4 +1,4 @@
-+Leyes de Kircchoff
+Leyes de Kircchoff
 ===================
 
 **Objetivo**

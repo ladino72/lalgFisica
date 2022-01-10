@@ -1,4 +1,4 @@
-+Ondas estacionarias en una cuerda
+Ondas estacionarias en una cuerda
 =====================================
 
 **Objetivo**

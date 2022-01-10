@@ -1,4 +1,4 @@
-+Teoría de errores
+Teoría de errores
 ==================
 
 **Objetivo**
